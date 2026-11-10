@@ -1,0 +1,17 @@
+{
+  "name": "flowhaven",
+  "owner": {
+    "name": "Flowhaven"
+  },
+  "metadata": {
+    "description": "Claude skills for teams using the Flowhaven licensing suite."
+  },
+  "plugins": [
+    {
+      "name": "flowhaven-suite",
+      "source": "./plugins/flowhaven-suite",
+      "description": "Read-only. Ask questions about your Flowhaven org's agreements, minimum guarantees, granted rights, submissions and royalty reports through a connected Salesforce connector.",
+      "version": "1.0.0"
+    }
+  ]
+}

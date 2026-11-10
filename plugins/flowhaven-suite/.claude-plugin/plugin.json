@@ -1,0 +1,8 @@
+{
+  "name": "flowhaven-suite",
+  "description": "Read-only skills for the Flowhaven licensing suite. Contains flowhaven-insights, which answers questions about a connected Flowhaven org and never creates or changes records.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Flowhaven"
+  }
+}
