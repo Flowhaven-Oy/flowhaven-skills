@@ -31,7 +31,7 @@ Then install the **flowhaven-suite** plugin. On Team and Enterprise plans an Own
 /plugin install flowhaven-suite@flowhaven
 ```
 
-**Upload instead.** Download `dist/flowhaven-insights-v1.0.0.zip`, check it against `dist/SHA256SUMS`, then upload it under **Customize, Skills**.
+**Upload instead.** Download `flowhaven-insights-v1.0.0.zip` and `SHA256SUMS` from the [latest release](https://github.com/Flowhaven-Oy/flowhaven-skills/releases/latest), check the zip against the checksum, then upload it under **Customize, Skills**.
 
 ### 3. Ask a first question
 
@@ -64,6 +64,10 @@ If you ask for a change, Claude offers to draft what the record would contain so
 ## Safety
 
 The skill is read-only by design, but the real control is the Salesforce user you connect with. Read [admin guardrails](docs/admin-guardrails.md) before connecting, and see [SECURITY.md](SECURITY.md) for how to report a problem. Running a pilot? See the [pilot playbook](docs/pilot-playbook.md).
+
+## About Flowhaven
+
+Flowhaven is a licensing and merchandising platform built on Salesforce. Learn more at [flowhaven.com](https://flowhaven.com), or see [Flowhaven and AI](https://flowhaven.com/platform/ai).
 
 ## Repository layout
 

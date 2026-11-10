@@ -22,4 +22,9 @@ Claude never needs your password, tokens, keys or the External Client App's Cons
 
 ## Reporting a problem
 
-If you find a way to make the skill write data, reveal data it should not, or weaken your org's settings, please report it to your Flowhaven Customer Success manager. Include the prompt you used, what Claude did, and the skill version. Please do not include real customer data or secrets in your report.
+If you find a way to make the skill write data, reveal data it should not, or weaken your org's settings, please report it privately:
+
+- **Anyone:** open this repository's **Security** tab and click **Report a vulnerability**. Only Flowhaven sees the report.
+- **Flowhaven customers** can also tell their Customer Success manager.
+
+Please don't open a public issue for a security problem. Include the prompt you used, what Claude did, and the skill version. Please do not include real customer data or secrets in your report.
